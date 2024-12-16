@@ -1,0 +1,1 @@
+This is some content and it will used to check the fs synchronous
